@@ -1,0 +1,15 @@
+# --- Java / IntelliJ Garbage ---
+target/
+*.class
+.idea/
+*.iml
+.mvn/
+mvnw
+mvnw.cmd
+
+# --- System Garbage ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
